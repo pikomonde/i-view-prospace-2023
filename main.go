@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/pikomonde/i-view-prospace/delivery"
-	servPars "github.com/pikomonde/i-view-prospace/service/parser"
+	"github.com/pikomonde/i-view-prospace-2023/delivery"
+	servPars "github.com/pikomonde/i-view-prospace-2023/service/parser"
 	"github.com/sirupsen/logrus"
 )
 

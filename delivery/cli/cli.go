@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/pikomonde/i-view-prospace/helper/log"
-	servPars "github.com/pikomonde/i-view-prospace/service/parser"
+	"github.com/pikomonde/i-view-prospace-2023/helper/log"
+	servPars "github.com/pikomonde/i-view-prospace-2023/service/parser"
 )
 
 // Cli is used to contains cli delivery

@@ -1,6 +1,6 @@
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/pikomonde/i-view-prospace v0.0.0-20201121235022-20cc6622eb32 h1:7OKh/TM5wooOPy2SEgZOx6HfzD37a3AfEr/H0iN4bDk=
-github.com/pikomonde/i-view-prospace v0.0.0-20201121235022-20cc6622eb32/go.mod h1:wqV3L5rey90qjI9woEZdnNGKuRD4czygg3WrmnvCGTk=
+github.com/pikomonde/i-view-prospace-2023 v0.0.0-20201121235022-20cc6622eb32 h1:7OKh/TM5wooOPy2SEgZOx6HfzD37a3AfEr/H0iN4bDk=
+github.com/pikomonde/i-view-prospace-2023 v0.0.0-20201121235022-20cc6622eb32/go.mod h1:wqV3L5rey90qjI9woEZdnNGKuRD4czygg3WrmnvCGTk=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/sirupsen/logrus v1.7.0 h1:ShrD1U9pZB12TX0cVy0DtePoCH97K8EtX+mg7ZARUtM=
 github.com/sirupsen/logrus v1.7.0/go.mod h1:yWOB1SBYBC5VeMP7gHvWumXLIWorT60ONWic61uBYv0=

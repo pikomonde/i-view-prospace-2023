@@ -3,7 +3,7 @@ package resource_test
 import (
 	"testing"
 
-	"github.com/pikomonde/i-view-prospace/service/resource"
+	"github.com/pikomonde/i-view-prospace-2023/service/resource"
 	"github.com/stretchr/testify/assert"
 )
 

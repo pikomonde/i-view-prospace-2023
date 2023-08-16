@@ -3,7 +3,7 @@ package transnum_test
 import (
 	"testing"
 
-	"github.com/pikomonde/i-view-prospace/service/transnum"
+	"github.com/pikomonde/i-view-prospace-2023/service/transnum"
 	"github.com/stretchr/testify/assert"
 )
 

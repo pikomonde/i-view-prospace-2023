@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/pikomonde/i-view-prospace/helper/log"
+	"github.com/pikomonde/i-view-prospace-2023/helper/log"
 	"github.com/stretchr/testify/assert"
 )
 

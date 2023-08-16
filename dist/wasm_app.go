@@ -3,7 +3,7 @@ package main
 import (
 	"syscall/js"
 
-	servPars "github.com/pikomonde/i-view-prospace/service/parser"
+	servPars "github.com/pikomonde/i-view-prospace-2023/service/parser"
 	"github.com/sirupsen/logrus"
 )
 

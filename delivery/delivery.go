@@ -6,9 +6,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/pikomonde/i-view-prospace/delivery/cli"
-	"github.com/pikomonde/i-view-prospace/helper/log"
-	servPars "github.com/pikomonde/i-view-prospace/service/parser"
+	"github.com/pikomonde/i-view-prospace-2023/delivery/cli"
+	"github.com/pikomonde/i-view-prospace-2023/helper/log"
+	servPars "github.com/pikomonde/i-view-prospace-2023/service/parser"
 )
 
 // Delivery contains on the app's delivery

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pikomonde/i-view-prospace/delivery"
+	"github.com/pikomonde/i-view-prospace-2023/delivery"
 )
 
 func TestDelivery(t *testing.T) {

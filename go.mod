@@ -1,4 +1,4 @@
-module github.com/pikomonde/i-view-prospace
+module github.com/pikomonde/i-view-prospace-2023
 
 go 1.14
 
