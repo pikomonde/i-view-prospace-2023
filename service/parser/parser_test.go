@@ -31,6 +31,22 @@ func testCases() [][2]string {
 		{"how many Credits is eee fff ggg Porridge ?", defaultUnexpectedInput},
 		{"how many Credits is glob Porridge ?", defaultUnexpectedInput},
 		{"aaa bbb is M", defaultUnexpectedInput},
+		{"Does pish tegj glob glob Iron has more Credits than glob glob Gold ?", "no"},
+		{"Does pish tegj glob glob Iron has less Credits than glob glob Gold ?", "yes"},
+		{"Does glob glob Gold has less Credits than pish tegj glob glob Iron ?", "no"},
+		{"Does glob glob Gold has more Credits than pish tegj glob glob Iron ?", "yes"},
+		{"Does glob glob Gold has xxxx Credits than pish tegj glob glob Iron ?", defaultUnexpectedInput},
+		{"Does xxxx Gold has more Credits than pish tegj glob glob Iron ?", defaultUnexpectedInput},
+		{"Does glob glob Gold has more Credits than xxxx Iron ?", defaultUnexpectedInput},
+		{"Does glob glob zzzz has more Credits than pish tegj glob glob Iron ?", defaultUnexpectedInput},
+		{"Does glob glob Gold has more Credits than pish tegj glob glob zzzz ?", defaultUnexpectedInput},
+		{"Is glob prok larger than pish pish ?", "no"},
+		{"Is glob prok smaller than pish pish ?", "yes"},
+		{"Is tegj glob glob smaller than glob prok ?", "no"},
+		{"Is tegj glob glob larger than glob prok ?", "yes"},
+		{"Is tegj glob glob xxxx than glob prok ?", defaultUnexpectedInput},
+		{"Is xxxx larger than glob prok ?", defaultUnexpectedInput},
+		{"Is tegj glob glob larger than xxxx ?", defaultUnexpectedInput},
 	}
 }
 
